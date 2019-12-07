@@ -46,7 +46,7 @@ page_three <- tabPanel(
     sidebarPanel(),
     mainPanel(
       titlePanel("Appendix"),
-      p("")
+      p("The files I used to code are a ui file and a server file.")
     )
   )
 )
